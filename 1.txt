@@ -1,0 +1,87 @@
+oThis article is about the co-founder of Microsoft. For other people of the same name, see Bill Gates (disambiguation).
+Bill Gates
+
+Gates in 2017
+
+Born	William Henry Gates III
+October 28, 1955 (age 65)
+Seattle, Washington, U.S.
+Education	Harvard University (dropped out)
+Occupation	
+Software developerinvestorentrepreneur
+
+Years active	1975–present
+Known for	Co-founder of Microsoft and Bill & Melinda Gates Foundation
+Title	
+Co-chairperson of the Bill & Melinda Gates Foundation
+Chairman and founder of Branded Entertainment Network
+Chairman and founder of Cascade Investment
+Chairman and co-founder of TerraPower
+Founder of Breakthrough Energy
+Technology advisor of Microsoft[1]
+
+Board member of	Berkshire Hathaway
+Microsoft (former, both)
+Spouse(s)	Melinda French
+​
+​(m. 1994; sep. 2021)​[2]
+Children	3
+Parent(s)	Bill Gates Sr.
+Mary Maxwell
+Website	www.gatesnotes.com
+Signature
+
+
+William Henry Gates III (born October 28, 1955) is an American business magnate, software developer, investor, author, and philanthropist. He is a co-founder of Microsoft Corporation, along with his late childhood friend Paul Allen.[3][4] During his career at Microsoft, Gates held the positions of chairman, chief executive officer (CEO), president and chief software architect, while also being the largest individual shareholder until May 2014.[5] He is considered one of the best known entrepreneurs of the microcomputer revolution of the 1970s and 1980s.
+
+Gates was born and raised in Seattle, Washington. In 1975, he and Allen founded Microsoft in Albuquerque, New Mexico. It became the world's largest personal computer software company.[6][a] Gates led the company as chairman and CEO until stepping down as CEO in January 2000, succeeded by Steve Ballmer, but he remained chairman of the board of directors and became chief software architect.[9] During the late 1990s, he was criticized for his business tactics, which have been considered anti-competitive. This opinion has been upheld by numerous court rulings.[10] In June 2008, Gates transitioned to a part-time role at Microsoft and full-time work at the Bill & Melinda Gates Foundation, the private charitable foundation he and his wife, Melinda Gates, established in 2000.[11] He stepped down as chairman of the board of Microsoft in February 2014 and assumed a new post as technology adviser to support the newly appointed CEO Satya Nadella.[12] In March 2020, Gates left his board positions at Microsoft and Berkshire Hathaway to focus on his philanthropic efforts including climate change, global health and development, and education.[13]
+
+Since 1987, Bill Gates has been included in the Forbes list of the world's wealthiest people.[14][15] From 1995 to 2017, he held the Forbes title of the richest person in the world every year except from 2010 to 2013.[16] In October 2017, he was surpassed by Amazon founder and CEO Jeff Bezos, who had an estimated net worth of US$90.6 billion compared to Gates's net worth of US$89.9 billion at the time.[17] As of May 2021, Gates had an estimated net worth of US$144 billion, making him the fourth-richest person in the world.[18]
+
+Later in his career and since leaving day-to-day operations at Microsoft in 2008, Gates has pursued many business and philanthropic endeavors. He is the founder and chairman of several companies, including BEN, Cascade Investment, bgC3, and TerraPower. He has given sizable amounts of money to various charitable organizations and scientific research programs through the Bill & Melinda Gates Foundation, reported to be the world's largest private charity.[19] Through the foundation, he led an early 21st century vaccination campaign which significantly contributed to the eradication of the wild poliovirus in Africa.[20][21] In 2010, Gates and Warren Buffett founded The Giving Pledge, whereby they and other billionaires pledge to give at least half of their wealth to philanthropy.[22]
+
+CONTENTS
+1	Early life
+2	Microsoft
+2.1	BASIC
+2.2	IBM partnership
+2.3	Windows
+2.4	Management style
+2.5	Antitrust litigation
+3	Post-Microsoft
+3.1	Business ventures and investments (partial list)
+4	Climate change and energy
+5	Political positions
+5.1	Regulation of the software industry
+5.2	Donald Trump Facebook ban
+5.3	Patents for COVID-19 vaccines
+6	Philanthropy
+6.1	Bill and Melinda Gates Foundation
+6.2	Personal donations
+6.3	Charity sports events
+7	Works
+8	Personal life
+8.1	Wealth tallies
+9	Recognition
+10	Depiction in media
+10.1	Documentary films about Gates
+10.2	Feature films
+10.3	Video and film clips
+10.4	Radio
+10.5	Television
+11	See also
+12	Notes
+13	References
+13.1	Bibliography
+13.2	Primary sources
+14	Further reading
+15	External links
+Early life
+
+Bill Gates was born in Seattle, Washington, on October 28, 1955.[4] He is the son of William H. Gates Sr.[b] (1925–2020) and Mary Maxwell Gates (1929–1994).[23] His ancestry includes English, German, and Irish/Scots-Irish.[24] His father was a prominent lawyer, and his mother served on the board of directors for First Interstate BancSystem and the United Way of America. Gates's maternal grandfather was J. W. Maxwell, a national bank president. Gates has an older sister Kristi (Kristianne) and a younger sister Libby. He is the fourth of his name in his family but is known as William Gates III or "Trey" (i.e., three) because his father had the "II" suffix.[25][26] The family lived in the Sand Point area of Seattle in a home that was damaged by a rare tornado when Gates was seven years old.[27]
+
+Early in his life, Gates observed that his parents wanted him to pursue a law career.[28] When he was young, his family regularly attended a church of the Congregational Christian Churches, a Protestant Reformed denomination.[29][30][31] Gates was small for his age and was bullied as a child.[26] The family encouraged competition; one visitor reported that "it didn't matter whether it was hearts or pickleball or swimming to the dock; there was always a reward for winning and there was always a penalty for losing".[32]
+
+Gates (right) with Paul Allen at Lakeside School in 1970
+
+At 13, he enrolled in the private Lakeside prep school,[33][34] where he wrote his first software program.[35] When he was in the eighth grade, the Mothers' Club at the school used proceeds from Lakeside School's rummage sale to buy a Teletype Model 33 ASR terminal and a block of computer time on a General Electric (GE) computer for the students.[36] Gates took an interest in programming the GE system in BASIC, and he was excused from math classes to pursue his interest. He wrote his first computer program on this machine, an implementation of tic-tac-toe that allowed users to play games against the computer. Gates was fascinated by the machine and how it would always execute software code perfectly.[37] After the Mothers Club donation was exhausted, Gates and other students sought time on systems including DEC PDP minicomputers. One of these systems was a PDP-10 belonging to Computer Center Corporation (CCC) which banned Gates, Paul Allen, Ric Weiland, and Gates's best friend and first business partner Kent Evans, for the summer after it caught them exploiting bugs in the operating system to obtain free computer time.[38][26]
